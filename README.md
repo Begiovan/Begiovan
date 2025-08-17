@@ -57,13 +57,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Begiovan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img align="right" height="200" src="https://legendofmi.com/images/animatedgifs/stan.gif"  />
-
-###
-
-<img align="left" height="130" src="https://legendofmi.com/images/animatedgifs/monkeysdancing.gif"  />
-
-###
